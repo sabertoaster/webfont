@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'AkayaTelivigala-Regular';
+    src:url('AkayaTelivigala-Regular.woff') format('woff'),
+        url('AkayaTelivigala-Regular.woff2') format('woff2'),
+        url('AkayaTelivigala-Regular.svg#AkayaTelivigala-Regular') format('svg'),
+        url('AkayaTelivigala-Regular.eot'),
+        url('AkayaTelivigala-Regular.eot?#iefix') format('embedded-opentype'),
+        url('AkayaTelivigala-Regular.ttf') format('truetype');
+
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
